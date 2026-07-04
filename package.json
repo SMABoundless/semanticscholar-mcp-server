@@ -1,6 +1,7 @@
 {
   "name": "semanticscholar-mcp-server",
   "version": "1.0.0",
+  "mcpName": "io.github.SMABoundless/semanticscholar",
   "description": "MCP server for the Semantic Scholar Academic Graph API",
   "type": "module",
   "main": "dist/index.js",
